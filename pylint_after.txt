@@ -1,0 +1,6 @@
+************* Module warehouse_stock_manager
+warehouse_stock_manager.py:90:4: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.92/10 (previous run: 9.92/10, +0.00)
+
